@@ -1,7 +1,7 @@
 # Power-BI-Tests
 Relatórios e Dashboards feitos como avaliação para cursos
 
-O primeiro relatório feito através do Power BI, utilizou a sample de financial da própria plataforma. 
+O primeiro relatório feito através do Power BI, utilizou a sample de financial fornecida pela própria plataforma. 
 Iniciei a análise descritiva com base em um curso de Power BI da DIO, no qual eu estava participando.
 A princípio segui as instruções passadas, realizando mudanças as quais julguei relevantes.
 Contudo, em certo momento, notei que os dados ainda apresentavam certa inconsistência e despadronização.
